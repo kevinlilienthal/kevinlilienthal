@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevinlilienthal
 - 💻 Working for Peapod Digital Labs
-- - 📫 kevin.lilienthal@peapoddigitallabs.com
+- 📫 kevin.lilienthal@peapoddigitallabs.com
 
 <!---
 kevinlilienthal/kevinlilienthal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
